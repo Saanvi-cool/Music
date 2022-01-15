@@ -1,0 +1,23 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px ;
+    box-shadow: 5px 5px 20px rgb(0, 204, 255);
+}
+.head{
+    font-size: 15px;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(118, 234, 255, 0.651);
+    line-height: 3;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(0, 17, 255);
+}
